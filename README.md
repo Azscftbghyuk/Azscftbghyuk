@@ -1,19 +1,19 @@
 ![header](/xK.gif)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ℍ𝕚,+𝕀'𝕞+𝔽𝕆𝕋𝕀𝕊&color=F724F5)](https://git.io/typing-svg)
-
-
-____
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=06fotis06&theme=dracula&margin-w=10&margin-h=10&row=1&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
 ____
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=06fotis06&theme=radical&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&locale=ru&card_width=710&background=12111F)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Azscftbghyuk&theme=dracula&margin-w=10&margin-h=10&row=1&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=06fotis06&theme=radical&card_width=710&locale=ru&background=12111F)](https://github.com/anuraghazra/github-readme-stats)
+
+
+____
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Azscftbghyuk&theme=radical&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&locale=ru&card_width=710&background=12111F)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azscftbghyuk&theme=radical&card_width=710&locale=ru&background=12111F)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Anurag's GitHub stats](https://leetcard.jacoblin.cool/06fotis06?sheets=https://gist.githubusercontent.com/06fotis06/72f86225cf2b7bd7d59051fdabb86223/raw/d6948f4c27a6e34cd092c3e649298b9a69512878/style.css&ext=heatmap)](https://github.com/anuraghazra/github-readme-stats)
